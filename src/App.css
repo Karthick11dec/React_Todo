@@ -1,0 +1,28 @@
+.title {
+	font-weight: 700;
+	font-size: 2.5rem;
+	text-align: center;
+}
+
+.form .card,
+.itemsContainer .card {
+	width: 30rem;
+}
+
+.addBtn {
+	height: 37px;
+}
+
+.form .card .card-body {
+	padding-bottom: 10px;
+}
+
+.todoItem {
+	font-weight: 600;
+	line-height: 1.5;
+}
+
+.completed {
+	opacity: 0.5;
+	text-decoration: line-through;
+}
